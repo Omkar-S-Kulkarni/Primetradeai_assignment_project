@@ -19,8 +19,11 @@ Tech used
 Python
 
 Pandas
+
 NumPy
+
 Matplotlib / Seaborn
+
 Scikit-learn
 
 
