@@ -17,6 +17,7 @@ This project is mainly exploratory, but it gives a good starting point for build
 
 Tech used
 Python
+
 Pandas
 NumPy
 Matplotlib / Seaborn
