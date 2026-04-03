@@ -28,6 +28,9 @@ Scikit-learn
 
 
 How to run
+
 Clone the repo   [git clone {my repo link here}]
+
 Install dependencies  [!pip install numpy pandas sklearn matplotlib requests ]
+
 Run the notebook or script [run normally]
